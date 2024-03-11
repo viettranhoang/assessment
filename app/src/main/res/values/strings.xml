@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="matches">Matches</string>
+    <string name="teams">Teams</string>
+    <string name="upcoming_match">Upcoming Match</string>
+    <string name="finished_match">Finished Match</string>
+</resources>
